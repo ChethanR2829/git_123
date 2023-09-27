@@ -1,0 +1,14 @@
+git init - Intialize git repository
+git status - branch, tracking, commit 
+git add file name - stage the file
+git commit -m "message" - tracking the file - version
+git branch - list the branch
+git checkout -b "branch name" - create new branch
+git checkout "branch name" - switch to the branch
+git restore --stagged "file name" - unstage the staged file
+git revert commit id - get the files back based on commit id
+git log - commit ids list
+git clone - clone the git hub repo in the local machine
+git pull - get the files from the git hub. only files. git pull origin main
+git push - put the files to the git hub repository git push origin main
+git remote -v - to check the origin details 
